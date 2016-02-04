@@ -1,1 +1,1 @@
-#Stacking for autosklearn
+#Stacking for auto-sklearn
