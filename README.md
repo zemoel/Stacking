@@ -1,1 +1,1 @@
-# Implementation of ensemble method Stacking for autosklearn
+# Stacking for autosklearn
